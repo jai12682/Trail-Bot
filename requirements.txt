@@ -1,0 +1,7 @@
+flask
+flask-login
+werkzeug
+python-binance
+flask-caching
+concurrent-log-handler
+tenacity
